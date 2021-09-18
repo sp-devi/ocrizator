@@ -12,5 +12,5 @@ fun main(args: Array<String>) {
     runApplication<OcrizatorApplication>(*args)
     System.out.println("Starting image ocr...")
     var ocrController = OCRController()
-	ocrController.processImageFile()
+    ocrController.processImageFile()
 }
