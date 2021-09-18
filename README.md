@@ -1,0 +1,3 @@
+# ocrizator
+
+## OCR component
